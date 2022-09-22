@@ -14,7 +14,7 @@ apt install git
 
 apt install python
 
-git clone https://github.com/ssmhack/kali-UF
+git clone https://github.com/ssmhack/kali-uf.git
 
 cd kali UF
 
